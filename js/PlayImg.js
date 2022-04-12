@@ -1,4 +1,3 @@
-
 var btn = document.getElementById("heartTxt");
 btn.style.opacity = 0;
 var btnVal = 0;
